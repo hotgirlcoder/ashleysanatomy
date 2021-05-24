@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashleysanatomy
+- 👋 Hi, I’m @hotgirlcoder
 - 👀 I’m interested in Python and R as it relates to psychological research
 - 🌱 I’m currently learning HTML/CSS/Javascript with shecodes.io
 - 💞️ I’m looking to collaborate on ... not sure yet!
